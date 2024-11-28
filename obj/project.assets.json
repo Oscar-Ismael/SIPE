@@ -4431,23 +4431,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\WINDOWS-10\\.nuget\\packages\\": {},
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WINDOWS-10\\Pictures\\SIPE\\SIPE\\SIPE.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\SIPE\\SIPE.csproj",
       "projectName": "SIPE",
-      "projectPath": "C:\\Users\\WINDOWS-10\\Pictures\\SIPE\\SIPE\\SIPE.csproj",
-      "packagesPath": "C:\\Users\\WINDOWS-10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WINDOWS-10\\Pictures\\SIPE\\SIPE\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\SIPE\\SIPE.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\SIPE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\WINDOWS-10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4472,8 +4472,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -4517,7 +4518,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

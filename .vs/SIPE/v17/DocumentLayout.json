@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\WINDOWS-10\\Pictures\\SIPE\\SIPE\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\SIPE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|c:\\users\\windows-10\\pictures\\sipe\\sipe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|c:\\users\\usuario\\documents\\sipe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|c:\\users\\windows-10\\pictures\\sipe\\sipe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|c:\\users\\usuario\\documents\\sipe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|c:\\users\\windows-10\\pictures\\sipe\\sipe\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|c:\\users\\usuario\\documents\\sipe\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|solutionrelative:models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|c:\\users\\windows-10\\pictures\\sipe\\sipe\\dataaccess\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|c:\\users\\usuario\\documents\\sipe\\dataaccess\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|solutionrelative:dataaccess\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|c:\\users\\windows-10\\pictures\\sipe\\sipe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|c:\\users\\usuario\\documents\\sipe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|c:\\users\\windows-10\\pictures\\sipe\\sipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|c:\\users\\usuario\\documents\\sipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70166993-C79F-468F-BE49-C6DB8991D51C}|SIPE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,12 +57,16 @@
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\WINDOWS-10\\Pictures\\SIPE\\SIPE\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\SIPE\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\WINDOWS-10\\Pictures\\SIPE\\SIPE\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\SIPE\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -72,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\WINDOWS-10\\Pictures\\SIPE\\SIPE\\Models\\Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\SIPE\\Models\\Empleado.cs",
               "RelativeDocumentMoniker": "Models\\Empleado.cs",
-              "ToolTip": "C:\\Users\\WINDOWS-10\\Pictures\\SIPE\\SIPE\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\SIPE\\Models\\Empleado.cs",
               "RelativeToolTip": "Models\\Empleado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,9 +88,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "SqlHelper.cs",
-              "DocumentMoniker": "C:\\Users\\WINDOWS-10\\Pictures\\SIPE\\SIPE\\DataAccess\\SqlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\SIPE\\DataAccess\\SqlHelper.cs",
               "RelativeDocumentMoniker": "DataAccess\\SqlHelper.cs",
-              "ToolTip": "C:\\Users\\WINDOWS-10\\Pictures\\SIPE\\SIPE\\DataAccess\\SqlHelper.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\SIPE\\DataAccess\\SqlHelper.cs",
               "RelativeToolTip": "DataAccess\\SqlHelper.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\WINDOWS-10\\Pictures\\SIPE\\SIPE\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\SIPE\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\WINDOWS-10\\Pictures\\SIPE\\SIPE\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\SIPE\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -108,9 +112,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\WINDOWS-10\\Pictures\\SIPE\\SIPE\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\SIPE\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\WINDOWS-10\\Pictures\\SIPE\\SIPE\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\SIPE\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,11 +124,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\WINDOWS-10\\Pictures\\SIPE\\SIPE\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\SIPE\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\WINDOWS-10\\Pictures\\SIPE\\SIPE\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\SIPE\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAiwDEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T02:41:54.25Z",
               "EditorCaption": ""
